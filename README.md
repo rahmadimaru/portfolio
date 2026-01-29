@@ -13,6 +13,7 @@ Let’s connect and explore how data can power smarter decisions.
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-645DB7?logo=powerbi&logoColor=white&style=for-the-badge)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97E00?logo=tableau&logoColor=white&style=for-the-badge)](https://www.tableau.com/)
+[![Looker](https://img.shields.io/badge/Looker-4285F4?logo=googleanalytics&logoColor=white&style=for-the-badge)](https://lookerstudio.google.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![Prophet](https://img.shields.io/badge/Prophet-000000?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.github.io/prophet/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -37,6 +38,7 @@ Let’s connect and explore how data can power smarter decisions.
 | **【PowerBI】Healthcare Clinic Dashboard - Patient Waitlist and Flow** | Dashboard monitoring patient volume across clinics and departments by case type, with period granularities, showing trends between inpatient and outpatient, wait times, and more. | ▶️ [Video](https://youtu.be/W6sZkeFec3g) |
 | **【PowerBI】Healthcare Heart Diseases Analytics Dashboard - Survival Insight & Risk Factor** | Visualizes key health metrics and survival patterns for cardiac patients, including survival rates, age survival, mortality trends, serum creatinine vs ejection fraction, and impact of unhealthy behaviors. | ▶️ [Video](https://youtu.be/duC11JFYv4U) |
 | **【PowerBI】Nature Weather - Monitor Dashboard** | Monitors several locations (Jakarta, South Tangerang, Kuala Lumpur, Penang, Singapore) in Indonesia, Malaysia, and Singapore. Data sourced from [WeatherAPI](https://weatherapi.com). Displays weather data points such as humidity, wind speed, visibility, pressure, UV index, precipitation, sunrise & sunset times, plus weather forecast and AQI monitoring. | ▶️ [Video](https://youtu.be/53pY3hV_E6U) |
+| **【Looker】Paid Social Advertising Dashboard | Agency Digital Marketing Performance Monitoring** | A performance monitoring dashboard designed to evaluate paid social advertising across scale, cost efficiency, engagement quality, and return. This project highlights how campaign data can be translated into decision-ready insights through executive-level summaries, efficiency signals, performance trends, and campaign-level diagnostics to support ongoing marketing optimization. | ▶️ [Video](https://youtu.be/KN9qXLFK-JY) \| 🌐 [Live Demo](https://lookerstudio.google.com/reporting/f80322a1-d75c-488c-8e95-f6688eb0d022) |
 
 > 🔗 All YouTube demos are linked via ▶️. Live dashboards are accessible using 🌐 links. PDF reports provide written summaries and methodological details.
 
@@ -46,5 +48,6 @@ Let’s connect and explore how data can power smarter decisions.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yusufrahmadi/)  
 - 🐙 [GitHub](https://github.com/rahmadimaru)  
+- 🌐 [Personal Website](https://homestudio.id/)
 
 ✨ Thanks for visiting!
