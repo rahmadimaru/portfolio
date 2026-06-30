@@ -1,0 +1,7 @@
+market_id,market_name,region,currency,timezone,market_maturity
+MKT_ID,Indonesia,SEA,IDR,Asia/Jakarta,Mature
+MKT_MY,Malaysia,SEA,MYR,Asia/Kuala_Lumpur,Growth
+MKT_SG,Singapore,SEA,SGD,Asia/Singapore,Mature
+MKT_TH,Thailand,SEA,THB,Asia/Bangkok,Growth
+MKT_SA,Saudi Arabia,GCC,SAR,Asia/Riyadh,Growth
+MKT_AE,United Arab Emirates,GCC,AED,Asia/Dubai,Mature

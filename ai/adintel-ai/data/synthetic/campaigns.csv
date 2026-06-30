@@ -1,0 +1,77 @@
+campaign_id,advertiser_id,campaign_name,objective,buying_type,campaign_status,start_date,end_date,total_budget_usd,daily_budget_usd
+CMP_001,ADV_001,Conversion Campaign 1,Conversion,CPC,Completed,2026-02-28,2026-04-27,6438.75,109.13
+CMP_002,ADV_001,Traffic Campaign 2,Traffic,CPC,Completed,2026-01-11,2026-05-12,8325.36,68.24
+CMP_003,ADV_001,Video Views Campaign 3,Video Views,CPV,Completed,2026-03-06,2026-04-23,8185.91,167.06
+CMP_004,ADV_001,Awareness Campaign 4,Awareness,CPM,Completed,2026-01-12,2026-03-26,5330.35,72.03
+CMP_005,ADV_002,Awareness Campaign 5,Awareness,CPM,Completed,2026-02-04,2026-05-01,33641.14,386.68
+CMP_006,ADV_002,Conversion Campaign 6,Conversion,CPC,Completed,2025-12-28,2026-03-26,22912.9,257.45
+CMP_007,ADV_002,Video Views Campaign 7,Video Views,CPV,Active,2026-03-29,2026-05-31,15205.01,237.58
+CMP_008,ADV_002,Video Views Campaign 8,Video Views,CPV,Completed,2025-12-27,2026-04-12,12858.37,120.17
+CMP_009,ADV_003,Video Views Campaign 9,Video Views,CPV,Completed,2026-02-10,2026-04-22,18557.69,257.75
+CMP_010,ADV_003,Awareness Campaign 10,Awareness,CPM,Completed,2026-01-13,2026-03-22,29750.05,431.16
+CMP_011,ADV_004,Awareness Campaign 11,Awareness,CPM,Completed,2026-01-21,2026-05-07,18837.3,176.05
+CMP_012,ADV_004,Video Views Campaign 12,Video Views,CPV,Completed,2025-12-02,2026-01-18,3941.9,82.12
+CMP_013,ADV_004,Awareness Campaign 13,Awareness,CPM,Completed,2026-03-23,2026-05-08,5187.63,110.38
+CMP_014,ADV_005,Awareness Campaign 14,Awareness,CPM,Completed,2025-12-01,2026-02-02,22056.5,344.63
+CMP_015,ADV_005,Traffic Campaign 15,Traffic,CPC,Completed,2026-02-08,2026-04-25,24300.42,315.59
+CMP_016,ADV_005,Awareness Campaign 16,Awareness,CPM,Completed,2025-12-17,2026-03-09,20033.58,241.37
+CMP_017,ADV_006,Conversion Campaign 17,Conversion,CPM,Completed,2026-03-22,2026-05-21,64660.43,1060.01
+CMP_018,ADV_006,Traffic Campaign 18,Traffic,CPC,Completed,2026-03-03,2026-04-19,40908.43,852.26
+CMP_019,ADV_006,Conversion Campaign 19,Conversion,CPM,Completed,2026-02-05,2026-04-09,41367.43,646.37
+CMP_020,ADV_007,Awareness Campaign 20,Awareness,CPM,Completed,2026-01-08,2026-05-14,50348.43,396.44
+CMP_021,ADV_007,Conversion Campaign 21,Conversion,CPC,Completed,2026-01-19,2026-03-27,20310.09,298.68
+CMP_022,ADV_007,Conversion Campaign 22,Conversion,CPM,Completed,2025-12-16,2026-04-29,59955.6,444.12
+CMP_023,ADV_007,Traffic Campaign 23,Traffic,CPC,Completed,2025-12-01,2026-03-03,40788.72,438.59
+CMP_024,ADV_008,Video Views Campaign 24,Video Views,CPV,Completed,2025-12-09,2026-05-07,97024.22,646.83
+CMP_025,ADV_008,Conversion Campaign 25,Conversion,CPC,Completed,2025-12-24,2026-04-01,100276.53,1012.89
+CMP_026,ADV_009,Video Views Campaign 26,Video Views,CPM,Active,2026-03-14,2026-05-31,66643.11,843.58
+CMP_027,ADV_009,Traffic Campaign 27,Traffic,CPM,Completed,2025-12-25,2026-05-11,81603.93,591.33
+CMP_028,ADV_009,Traffic Campaign 28,Traffic,CPC,Completed,2026-01-04,2026-05-08,149411.11,1195.29
+CMP_029,ADV_009,Awareness Campaign 29,Awareness,CPM,Completed,2025-12-14,2026-02-17,33131.95,502.0
+CMP_030,ADV_010,Conversion Campaign 30,Conversion,CPM,Completed,2026-01-17,2026-05-17,94681.53,782.49
+CMP_031,ADV_010,Conversion Campaign 31,Conversion,CPM,Completed,2025-12-30,2026-03-22,98110.89,1182.06
+CMP_032,ADV_010,Traffic Campaign 32,Traffic,CPM,Completed,2025-12-27,2026-05-18,92602.03,647.57
+CMP_033,ADV_010,Conversion Campaign 33,Conversion,CPC,Active,2026-03-07,2026-05-31,46926.54,545.66
+CMP_034,ADV_011,Conversion Campaign 34,Conversion,CPC,Completed,2025-12-17,2026-03-15,38301.27,430.35
+CMP_035,ADV_011,Video Views Campaign 35,Video Views,CPM,Active,2026-03-09,2026-05-31,36499.15,434.51
+CMP_036,ADV_011,Traffic Campaign 36,Traffic,CPC,Active,2026-03-05,2026-05-31,39028.83,443.51
+CMP_037,ADV_011,Awareness Campaign 37,Awareness,CPM,Completed,2026-01-01,2026-05-12,27534.76,208.6
+CMP_038,ADV_012,Awareness Campaign 38,Awareness,CPM,Active,2026-03-05,2026-05-31,82863.03,941.63
+CMP_039,ADV_012,Conversion Campaign 39,Conversion,CPM,Completed,2026-01-01,2026-04-02,109622.21,1191.55
+CMP_040,ADV_012,Awareness Campaign 40,Awareness,CPM,Completed,2025-12-02,2026-04-15,132253.2,979.65
+CMP_041,ADV_012,Conversion Campaign 41,Conversion,CPC,Completed,2026-01-17,2026-04-10,50362.46,599.55
+CMP_042,ADV_013,Traffic Campaign 42,Traffic,CPC,Completed,2025-12-24,2026-02-19,8521.71,146.93
+CMP_043,ADV_013,Awareness Campaign 43,Awareness,CPM,Completed,2025-12-20,2026-04-08,15775.16,143.41
+CMP_044,ADV_013,Traffic Campaign 44,Traffic,CPC,Active,2026-03-25,2026-05-31,8779.72,129.11
+CMP_045,ADV_013,Conversion Campaign 45,Conversion,CPM,Active,2026-02-01,2026-05-31,27394.85,228.29
+CMP_046,ADV_014,Traffic Campaign 46,Traffic,CPC,Completed,2026-01-27,2026-05-09,4559.81,44.27
+CMP_047,ADV_014,Awareness Campaign 47,Awareness,CPV,Completed,2026-01-23,2026-05-07,9001.77,85.73
+CMP_048,ADV_014,Video Views Campaign 48,Video Views,CPV,Completed,2026-03-18,2026-05-06,5200.86,104.02
+CMP_049,ADV_015,Awareness Campaign 49,Awareness,CPM,Active,2026-01-16,2026-05-31,44927.85,330.35
+CMP_050,ADV_015,Conversion Campaign 50,Conversion,CPC,Completed,2026-03-16,2026-05-29,10016.42,133.55
+CMP_051,ADV_015,Traffic Campaign 51,Traffic,CPC,Completed,2026-01-27,2026-05-06,20278.4,202.78
+CMP_052,ADV_016,Video Views Campaign 52,Video Views,CPM,Completed,2025-12-09,2026-02-03,5543.44,97.25
+CMP_053,ADV_016,Awareness Campaign 53,Awareness,CPM,Completed,2026-01-03,2026-05-23,16481.73,116.89
+CMP_054,ADV_016,Conversion Campaign 54,Conversion,CPC,Completed,2026-03-27,2026-05-11,7989.33,173.68
+CMP_055,ADV_017,Conversion Campaign 55,Conversion,CPM,Active,2026-03-03,2026-05-31,18157.61,201.75
+CMP_056,ADV_017,Traffic Campaign 56,Traffic,CPM,Completed,2026-01-26,2026-04-09,11714.49,158.3
+CMP_057,ADV_017,Awareness Campaign 57,Awareness,CPM,Active,2026-03-20,2026-05-31,25711.12,352.21
+CMP_058,ADV_017,Traffic Campaign 58,Traffic,CPC,Completed,2026-01-17,2026-05-26,35911.94,276.25
+CMP_059,ADV_018,Traffic Campaign 59,Traffic,CPC,Completed,2025-12-10,2026-04-02,125819.33,1103.68
+CMP_060,ADV_018,Awareness Campaign 60,Awareness,CPM,Completed,2025-12-19,2026-03-31,79916.04,775.88
+CMP_061,ADV_019,Conversion Campaign 61,Conversion,CPC,Completed,2026-02-18,2026-04-05,6051.19,128.75
+CMP_062,ADV_019,Conversion Campaign 62,Conversion,CPC,Completed,2025-12-24,2026-02-18,14141.48,248.1
+CMP_063,ADV_020,Traffic Campaign 63,Traffic,CPC,Completed,2026-03-11,2026-05-06,14102.59,247.41
+CMP_064,ADV_020,Video Views Campaign 64,Video Views,CPM,Completed,2026-01-13,2026-03-27,10573.8,142.89
+CMP_065,ADV_021,Traffic Campaign 65,Traffic,CPC,Active,2026-03-24,2026-05-31,6011.11,87.12
+CMP_066,ADV_021,Conversion Campaign 66,Conversion,CPM,Active,2026-02-12,2026-05-31,9557.93,87.69
+CMP_067,ADV_021,Awareness Campaign 67,Awareness,CPM,Completed,2026-01-27,2026-05-26,19541.53,162.85
+CMP_068,ADV_021,Conversion Campaign 68,Conversion,CPC,Active,2026-03-31,2026-05-31,4020.18,64.84
+CMP_069,ADV_022,Conversion Campaign 69,Conversion,CPC,Completed,2026-03-09,2026-05-28,7458.69,92.08
+CMP_070,ADV_022,Conversion Campaign 70,Conversion,CPM,Active,2026-01-31,2026-05-31,19381.51,160.18
+CMP_071,ADV_023,Conversion Campaign 71,Conversion,CPC,Active,2026-03-09,2026-05-31,56369.84,671.07
+CMP_072,ADV_023,Traffic Campaign 72,Traffic,CPC,Active,2026-02-27,2026-05-31,56681.05,602.99
+CMP_073,ADV_024,Traffic Campaign 73,Traffic,CPC,Completed,2026-03-15,2026-05-17,27366.0,427.59
+CMP_074,ADV_024,Traffic Campaign 74,Traffic,CPM,Completed,2026-01-21,2026-05-28,98441.19,769.07
+CMP_075,ADV_024,Awareness Campaign 75,Awareness,CPM,Completed,2025-12-12,2026-02-19,57445.33,820.65
+CMP_076,ADV_024,Awareness Campaign 76,Awareness,CPV,Completed,2025-12-16,2026-03-27,45537.38,446.44

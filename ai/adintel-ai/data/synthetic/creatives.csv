@@ -1,0 +1,265 @@
+creative_id,advertiser_id,creative_name,creative_format,video_duration_sec,aspect_ratio,creative_quality_score,is_video,created_at
+CRE_001,ADV_001,Carousel Creative 1,Carousel,,9:16,84.04,False,2026-04-03
+CRE_002,ADV_001,Carousel Creative 2,Carousel,,1:1,64.47,False,2025-08-12
+CRE_003,ADV_001,Video Creative 3,Video,10.0,1:1,71.89,True,2025-08-21
+CRE_004,ADV_001,Video Creative 4,Video,15.0,4:5,75.64,True,2025-11-10
+CRE_005,ADV_001,Rich Media Creative 5,Rich Media,,1:1,61.66,False,2025-08-25
+CRE_006,ADV_001,Image Creative 6,Image,,4:5,76.36,False,2026-01-01
+CRE_007,ADV_001,Image Creative 7,Image,,1:1,62.34,False,2026-04-22
+CRE_008,ADV_001,Carousel Creative 8,Carousel,,9:16,79.16,False,2025-12-12
+CRE_009,ADV_001,Video Creative 9,Video,10.0,4:5,87.81,True,2026-03-01
+CRE_010,ADV_001,Image Creative 10,Image,,9:16,70.58,False,2025-12-09
+CRE_011,ADV_001,Carousel Creative 11,Carousel,,4:5,52.51,False,2026-04-05
+CRE_012,ADV_002,Image Creative 12,Image,,1:1,73.94,False,2026-01-10
+CRE_013,ADV_002,Image Creative 13,Image,,9:16,64.05,False,2025-10-14
+CRE_014,ADV_002,Video Creative 14,Video,30.0,9:16,47.64,True,2026-04-30
+CRE_015,ADV_002,Carousel Creative 15,Carousel,,16:9,76.84,False,2026-02-28
+CRE_016,ADV_002,Video Creative 16,Video,6.0,16:9,71.71,True,2026-04-05
+CRE_017,ADV_002,Image Creative 17,Image,,4:5,75.4,False,2025-08-01
+CRE_018,ADV_002,Carousel Creative 18,Carousel,,16:9,68.89,False,2025-12-06
+CRE_019,ADV_002,Video Creative 19,Video,30.0,16:9,48.77,True,2025-08-21
+CRE_020,ADV_002,Image Creative 20,Image,,1:1,73.51,False,2025-12-20
+CRE_021,ADV_003,Carousel Creative 21,Carousel,,1:1,80.68,False,2026-02-23
+CRE_022,ADV_003,Image Creative 22,Image,,1:1,80.01,False,2025-12-12
+CRE_023,ADV_003,Video Creative 23,Video,15.0,9:16,70.41,True,2025-12-20
+CRE_024,ADV_003,Carousel Creative 24,Carousel,,4:5,60.31,False,2026-02-06
+CRE_025,ADV_003,Image Creative 25,Image,,4:5,65.58,False,2026-04-27
+CRE_026,ADV_003,Carousel Creative 26,Carousel,,16:9,70.91,False,2025-12-28
+CRE_027,ADV_003,Carousel Creative 27,Carousel,,9:16,78.16,False,2026-02-17
+CRE_028,ADV_003,Carousel Creative 28,Carousel,,1:1,68.89,False,2026-02-22
+CRE_029,ADV_003,Video Creative 29,Video,10.0,16:9,65.57,True,2025-11-28
+CRE_030,ADV_003,Video Creative 30,Video,15.0,4:5,81.7,True,2026-04-22
+CRE_031,ADV_003,Image Creative 31,Image,,16:9,49.38,False,2026-03-15
+CRE_032,ADV_004,Image Creative 32,Image,,9:16,68.44,False,2025-09-10
+CRE_033,ADV_004,Image Creative 33,Image,,1:1,83.4,False,2025-11-28
+CRE_034,ADV_004,Image Creative 34,Image,,16:9,92.53,False,2025-08-16
+CRE_035,ADV_004,Image Creative 35,Image,,1:1,72.84,False,2026-01-19
+CRE_036,ADV_004,Image Creative 36,Image,,1:1,85.94,False,2026-02-17
+CRE_037,ADV_004,Carousel Creative 37,Carousel,,4:5,83.7,False,2025-10-04
+CRE_038,ADV_004,Image Creative 38,Image,,16:9,78.01,False,2025-10-15
+CRE_039,ADV_004,Video Creative 39,Video,10.0,9:16,60.16,True,2026-03-20
+CRE_040,ADV_005,Video Creative 40,Video,15.0,1:1,66.38,True,2026-01-26
+CRE_041,ADV_005,Image Creative 41,Image,,9:16,60.41,False,2025-10-15
+CRE_042,ADV_005,Video Creative 42,Video,30.0,9:16,72.36,True,2026-01-09
+CRE_043,ADV_005,Video Creative 43,Video,45.0,9:16,64.52,True,2025-12-31
+CRE_044,ADV_005,Image Creative 44,Image,,1:1,53.41,False,2026-04-25
+CRE_045,ADV_005,Video Creative 45,Video,45.0,1:1,69.78,True,2025-11-01
+CRE_046,ADV_005,Video Creative 46,Video,30.0,9:16,52.89,True,2026-03-25
+CRE_047,ADV_005,Video Creative 47,Video,15.0,1:1,85.91,True,2026-02-06
+CRE_048,ADV_005,Carousel Creative 48,Carousel,,4:5,73.45,False,2025-10-29
+CRE_049,ADV_005,Video Creative 49,Video,15.0,9:16,66.09,True,2026-03-21
+CRE_050,ADV_005,Image Creative 50,Image,,1:1,55.89,False,2025-09-10
+CRE_051,ADV_005,Carousel Creative 51,Carousel,,16:9,84.46,False,2025-09-10
+CRE_052,ADV_006,Video Creative 52,Video,30.0,16:9,73.04,True,2025-12-05
+CRE_053,ADV_006,Image Creative 53,Image,,4:5,55.47,False,2025-10-11
+CRE_054,ADV_006,Carousel Creative 54,Carousel,,1:1,49.7,False,2025-11-17
+CRE_055,ADV_006,Video Creative 55,Video,10.0,1:1,66.2,True,2026-03-03
+CRE_056,ADV_006,Image Creative 56,Image,,4:5,73.76,False,2025-12-24
+CRE_057,ADV_006,Image Creative 57,Image,,9:16,62.01,False,2025-12-25
+CRE_058,ADV_006,Video Creative 58,Video,15.0,1:1,45.49,True,2026-03-13
+CRE_059,ADV_006,Video Creative 59,Video,15.0,1:1,65.68,True,2025-11-13
+CRE_060,ADV_006,Video Creative 60,Video,30.0,1:1,90.07,True,2026-04-23
+CRE_061,ADV_006,Video Creative 61,Video,10.0,1:1,77.42,True,2025-08-02
+CRE_062,ADV_006,Video Creative 62,Video,30.0,9:16,59.1,True,2026-04-15
+CRE_063,ADV_006,Image Creative 63,Image,,1:1,51.63,False,2026-03-01
+CRE_064,ADV_006,Carousel Creative 64,Carousel,,16:9,64.25,False,2026-03-11
+CRE_065,ADV_006,Video Creative 65,Video,30.0,16:9,69.98,True,2025-12-24
+CRE_066,ADV_007,Video Creative 66,Video,10.0,1:1,64.23,True,2025-11-30
+CRE_067,ADV_007,Video Creative 67,Video,10.0,4:5,60.85,True,2025-09-10
+CRE_068,ADV_007,Video Creative 68,Video,10.0,4:5,46.13,True,2026-01-07
+CRE_069,ADV_007,Image Creative 69,Image,,1:1,91.03,False,2026-01-14
+CRE_070,ADV_007,Video Creative 70,Video,10.0,16:9,81.35,True,2026-02-12
+CRE_071,ADV_007,Image Creative 71,Image,,9:16,74.73,False,2025-12-04
+CRE_072,ADV_007,Video Creative 72,Video,6.0,4:5,46.61,True,2026-01-23
+CRE_073,ADV_007,Image Creative 73,Image,,4:5,71.68,False,2025-11-21
+CRE_074,ADV_007,Image Creative 74,Image,,1:1,75.36,False,2025-10-06
+CRE_075,ADV_007,Rich Media Creative 75,Rich Media,,9:16,66.76,False,2026-03-22
+CRE_076,ADV_007,Image Creative 76,Image,,9:16,70.68,False,2025-12-03
+CRE_077,ADV_008,Video Creative 77,Video,10.0,4:5,67.04,True,2025-09-04
+CRE_078,ADV_008,Carousel Creative 78,Carousel,,4:5,84.85,False,2026-05-01
+CRE_079,ADV_008,Carousel Creative 79,Carousel,,1:1,70.71,False,2026-03-12
+CRE_080,ADV_008,Image Creative 80,Image,,4:5,77.37,False,2025-10-08
+CRE_081,ADV_008,Image Creative 81,Image,,9:16,92.79,False,2025-09-11
+CRE_082,ADV_008,Carousel Creative 82,Carousel,,1:1,98.0,False,2025-09-20
+CRE_083,ADV_008,Image Creative 83,Image,,1:1,96.4,False,2025-12-17
+CRE_084,ADV_008,Video Creative 84,Video,15.0,4:5,73.02,True,2025-12-03
+CRE_085,ADV_008,Video Creative 85,Video,30.0,1:1,41.64,True,2025-11-07
+CRE_086,ADV_008,Carousel Creative 86,Carousel,,4:5,68.57,False,2026-03-02
+CRE_087,ADV_008,Video Creative 87,Video,30.0,4:5,66.63,True,2025-08-05
+CRE_088,ADV_008,Video Creative 88,Video,15.0,16:9,56.69,True,2025-10-03
+CRE_089,ADV_008,Video Creative 89,Video,15.0,9:16,64.86,True,2025-12-27
+CRE_090,ADV_008,Video Creative 90,Video,15.0,1:1,46.83,True,2026-01-31
+CRE_091,ADV_009,Video Creative 91,Video,6.0,4:5,61.09,True,2025-10-09
+CRE_092,ADV_009,Video Creative 92,Video,15.0,9:16,72.35,True,2025-10-14
+CRE_093,ADV_009,Image Creative 93,Image,,16:9,64.85,False,2026-02-08
+CRE_094,ADV_009,Video Creative 94,Video,15.0,16:9,88.49,True,2026-03-07
+CRE_095,ADV_009,Video Creative 95,Video,30.0,1:1,76.98,True,2026-01-10
+CRE_096,ADV_009,Image Creative 96,Image,,1:1,89.9,False,2025-11-24
+CRE_097,ADV_009,Image Creative 97,Image,,4:5,55.38,False,2025-12-25
+CRE_098,ADV_009,Image Creative 98,Image,,16:9,83.56,False,2025-08-13
+CRE_099,ADV_009,Rich Media Creative 99,Rich Media,,9:16,80.67,False,2025-08-22
+CRE_100,ADV_009,Video Creative 100,Video,30.0,9:16,61.65,True,2025-12-04
+CRE_101,ADV_009,Video Creative 101,Video,30.0,9:16,86.57,True,2025-09-26
+CRE_102,ADV_010,Image Creative 102,Image,,16:9,61.58,False,2026-04-21
+CRE_103,ADV_010,Rich Media Creative 103,Rich Media,,1:1,70.52,False,2025-08-01
+CRE_104,ADV_010,Image Creative 104,Image,,1:1,67.72,False,2026-03-20
+CRE_105,ADV_010,Rich Media Creative 105,Rich Media,,1:1,77.6,False,2026-01-11
+CRE_106,ADV_010,Video Creative 106,Video,6.0,16:9,77.83,True,2026-04-22
+CRE_107,ADV_010,Video Creative 107,Video,10.0,9:16,77.64,True,2026-02-04
+CRE_108,ADV_010,Video Creative 108,Video,30.0,1:1,49.73,True,2025-09-30
+CRE_109,ADV_010,Image Creative 109,Image,,1:1,76.69,False,2026-01-09
+CRE_110,ADV_010,Carousel Creative 110,Carousel,,4:5,81.52,False,2026-02-04
+CRE_111,ADV_010,Image Creative 111,Image,,16:9,83.78,False,2026-03-03
+CRE_112,ADV_010,Rich Media Creative 112,Rich Media,,9:16,86.83,False,2025-09-24
+CRE_113,ADV_010,Carousel Creative 113,Carousel,,1:1,68.83,False,2026-03-21
+CRE_114,ADV_010,Image Creative 114,Image,,1:1,47.95,False,2025-08-21
+CRE_115,ADV_011,Image Creative 115,Image,,1:1,61.74,False,2026-01-30
+CRE_116,ADV_011,Video Creative 116,Video,15.0,9:16,76.02,True,2025-09-23
+CRE_117,ADV_011,Image Creative 117,Image,,4:5,58.74,False,2025-09-22
+CRE_118,ADV_011,Carousel Creative 118,Carousel,,9:16,81.39,False,2025-08-30
+CRE_119,ADV_011,Video Creative 119,Video,10.0,16:9,63.13,True,2026-04-05
+CRE_120,ADV_011,Video Creative 120,Video,6.0,4:5,82.68,True,2025-09-18
+CRE_121,ADV_011,Image Creative 121,Image,,9:16,72.0,False,2026-05-01
+CRE_122,ADV_011,Image Creative 122,Image,,9:16,71.89,False,2026-02-25
+CRE_123,ADV_011,Image Creative 123,Image,,1:1,81.9,False,2026-01-03
+CRE_124,ADV_011,Image Creative 124,Image,,1:1,61.59,False,2025-11-15
+CRE_125,ADV_012,Video Creative 125,Video,30.0,16:9,82.3,True,2025-12-19
+CRE_126,ADV_012,Video Creative 126,Video,15.0,4:5,73.82,True,2026-01-26
+CRE_127,ADV_012,Image Creative 127,Image,,1:1,71.21,False,2026-03-05
+CRE_128,ADV_012,Video Creative 128,Video,6.0,16:9,95.78,True,2026-03-01
+CRE_129,ADV_012,Video Creative 129,Video,30.0,9:16,73.06,True,2026-02-17
+CRE_130,ADV_012,Image Creative 130,Image,,16:9,74.37,False,2026-02-27
+CRE_131,ADV_012,Video Creative 131,Video,6.0,4:5,76.9,True,2025-09-10
+CRE_132,ADV_012,Video Creative 132,Video,6.0,4:5,70.5,True,2026-03-15
+CRE_133,ADV_012,Image Creative 133,Image,,16:9,86.82,False,2025-08-16
+CRE_134,ADV_012,Image Creative 134,Image,,9:16,68.16,False,2025-11-08
+CRE_135,ADV_013,Video Creative 135,Video,6.0,4:5,80.07,True,2026-05-01
+CRE_136,ADV_013,Video Creative 136,Video,45.0,4:5,70.03,True,2025-12-27
+CRE_137,ADV_013,Video Creative 137,Video,15.0,16:9,62.3,True,2026-03-15
+CRE_138,ADV_013,Video Creative 138,Video,30.0,9:16,73.85,True,2025-12-16
+CRE_139,ADV_013,Video Creative 139,Video,6.0,9:16,59.01,True,2026-04-15
+CRE_140,ADV_013,Image Creative 140,Image,,4:5,81.46,False,2025-12-16
+CRE_141,ADV_013,Image Creative 141,Image,,4:5,61.69,False,2026-01-29
+CRE_142,ADV_013,Image Creative 142,Image,,1:1,86.34,False,2026-01-18
+CRE_143,ADV_013,Carousel Creative 143,Carousel,,1:1,70.69,False,2025-11-27
+CRE_144,ADV_013,Video Creative 144,Video,30.0,4:5,66.14,True,2025-10-31
+CRE_145,ADV_013,Rich Media Creative 145,Rich Media,,9:16,80.07,False,2025-12-12
+CRE_146,ADV_013,Video Creative 146,Video,15.0,1:1,79.1,True,2025-09-02
+CRE_147,ADV_014,Video Creative 147,Video,15.0,16:9,83.86,True,2026-03-16
+CRE_148,ADV_014,Carousel Creative 148,Carousel,,1:1,55.78,False,2026-01-07
+CRE_149,ADV_014,Carousel Creative 149,Carousel,,4:5,80.04,False,2025-09-14
+CRE_150,ADV_014,Image Creative 150,Image,,4:5,80.12,False,2025-11-12
+CRE_151,ADV_014,Image Creative 151,Image,,4:5,63.08,False,2026-02-21
+CRE_152,ADV_014,Video Creative 152,Video,15.0,9:16,62.44,True,2025-08-04
+CRE_153,ADV_014,Rich Media Creative 153,Rich Media,,16:9,72.25,False,2025-08-28
+CRE_154,ADV_014,Video Creative 154,Video,10.0,9:16,74.77,True,2026-02-15
+CRE_155,ADV_014,Image Creative 155,Image,,1:1,87.38,False,2026-04-24
+CRE_156,ADV_014,Rich Media Creative 156,Rich Media,,4:5,78.69,False,2025-10-07
+CRE_157,ADV_014,Image Creative 157,Image,,1:1,57.96,False,2026-01-22
+CRE_158,ADV_014,Carousel Creative 158,Carousel,,4:5,82.18,False,2026-02-04
+CRE_159,ADV_014,Video Creative 159,Video,6.0,9:16,85.37,True,2025-08-05
+CRE_160,ADV_014,Video Creative 160,Video,10.0,4:5,85.37,True,2025-09-23
+CRE_161,ADV_015,Rich Media Creative 161,Rich Media,,1:1,52.71,False,2025-11-30
+CRE_162,ADV_015,Video Creative 162,Video,6.0,9:16,74.22,True,2025-10-01
+CRE_163,ADV_015,Carousel Creative 163,Carousel,,1:1,98.0,False,2026-03-11
+CRE_164,ADV_015,Image Creative 164,Image,,9:16,49.27,False,2025-08-06
+CRE_165,ADV_015,Video Creative 165,Video,10.0,9:16,66.85,True,2026-01-16
+CRE_166,ADV_015,Image Creative 166,Image,,16:9,79.06,False,2026-04-09
+CRE_167,ADV_015,Rich Media Creative 167,Rich Media,,1:1,52.82,False,2026-05-01
+CRE_168,ADV_015,Video Creative 168,Video,6.0,9:16,77.55,True,2026-01-01
+CRE_169,ADV_016,Image Creative 169,Image,,16:9,77.11,False,2025-08-08
+CRE_170,ADV_016,Image Creative 170,Image,,4:5,72.23,False,2025-11-02
+CRE_171,ADV_016,Video Creative 171,Video,30.0,9:16,74.79,True,2025-11-01
+CRE_172,ADV_016,Video Creative 172,Video,6.0,9:16,57.56,True,2025-09-05
+CRE_173,ADV_016,Image Creative 173,Image,,4:5,57.0,False,2025-09-24
+CRE_174,ADV_016,Video Creative 174,Video,6.0,1:1,79.25,True,2026-01-02
+CRE_175,ADV_016,Image Creative 175,Image,,9:16,97.2,False,2026-03-16
+CRE_176,ADV_016,Image Creative 176,Image,,4:5,69.04,False,2026-04-04
+CRE_177,ADV_016,Carousel Creative 177,Carousel,,4:5,64.21,False,2025-11-25
+CRE_178,ADV_016,Image Creative 178,Image,,16:9,87.86,False,2025-11-21
+CRE_179,ADV_016,Video Creative 179,Video,10.0,9:16,86.94,True,2025-11-22
+CRE_180,ADV_016,Carousel Creative 180,Carousel,,9:16,49.01,False,2025-11-24
+CRE_181,ADV_016,Image Creative 181,Image,,1:1,77.85,False,2026-02-09
+CRE_182,ADV_017,Image Creative 182,Image,,4:5,79.89,False,2026-03-25
+CRE_183,ADV_017,Image Creative 183,Image,,4:5,92.2,False,2025-12-27
+CRE_184,ADV_017,Video Creative 184,Video,30.0,16:9,65.67,True,2025-11-17
+CRE_185,ADV_017,Image Creative 185,Image,,4:5,69.73,False,2025-10-23
+CRE_186,ADV_017,Video Creative 186,Video,10.0,1:1,83.06,True,2025-09-10
+CRE_187,ADV_017,Image Creative 187,Image,,9:16,66.84,False,2026-04-28
+CRE_188,ADV_017,Carousel Creative 188,Carousel,,1:1,73.04,False,2026-02-11
+CRE_189,ADV_017,Image Creative 189,Image,,4:5,82.79,False,2025-08-04
+CRE_190,ADV_018,Video Creative 190,Video,15.0,1:1,80.94,True,2026-04-05
+CRE_191,ADV_018,Image Creative 191,Image,,1:1,69.99,False,2026-01-16
+CRE_192,ADV_018,Image Creative 192,Image,,1:1,79.99,False,2026-02-04
+CRE_193,ADV_018,Video Creative 193,Video,6.0,16:9,58.95,True,2026-01-26
+CRE_194,ADV_018,Image Creative 194,Image,,4:5,58.97,False,2025-09-07
+CRE_195,ADV_018,Video Creative 195,Video,30.0,9:16,89.79,True,2025-08-30
+CRE_196,ADV_018,Image Creative 196,Image,,1:1,66.23,False,2025-11-20
+CRE_197,ADV_018,Carousel Creative 197,Carousel,,16:9,66.48,False,2025-09-16
+CRE_198,ADV_018,Carousel Creative 198,Carousel,,16:9,58.37,False,2025-08-16
+CRE_199,ADV_018,Video Creative 199,Video,15.0,16:9,92.87,True,2026-02-18
+CRE_200,ADV_019,Image Creative 200,Image,,16:9,83.75,False,2026-04-11
+CRE_201,ADV_019,Video Creative 201,Video,45.0,1:1,52.94,True,2025-12-01
+CRE_202,ADV_019,Video Creative 202,Video,6.0,1:1,81.52,True,2026-02-07
+CRE_203,ADV_019,Video Creative 203,Video,15.0,16:9,84.98,True,2026-02-14
+CRE_204,ADV_019,Rich Media Creative 204,Rich Media,,16:9,83.95,False,2026-01-14
+CRE_205,ADV_019,Carousel Creative 205,Carousel,,1:1,69.54,False,2025-10-12
+CRE_206,ADV_019,Image Creative 206,Image,,9:16,71.19,False,2026-04-02
+CRE_207,ADV_019,Carousel Creative 207,Carousel,,16:9,84.7,False,2025-11-17
+CRE_208,ADV_019,Rich Media Creative 208,Rich Media,,1:1,83.25,False,2026-04-28
+CRE_209,ADV_019,Video Creative 209,Video,15.0,9:16,67.21,True,2026-04-27
+CRE_210,ADV_019,Carousel Creative 210,Carousel,,16:9,75.6,False,2026-03-04
+CRE_211,ADV_019,Video Creative 211,Video,30.0,16:9,78.01,True,2026-02-09
+CRE_212,ADV_019,Image Creative 212,Image,,4:5,72.6,False,2025-08-13
+CRE_213,ADV_019,Rich Media Creative 213,Rich Media,,1:1,77.05,False,2025-12-26
+CRE_214,ADV_019,Video Creative 214,Video,30.0,9:16,68.36,True,2025-08-22
+CRE_215,ADV_020,Video Creative 215,Video,6.0,9:16,77.11,True,2026-04-29
+CRE_216,ADV_020,Rich Media Creative 216,Rich Media,,16:9,69.8,False,2026-02-26
+CRE_217,ADV_020,Image Creative 217,Image,,4:5,67.29,False,2025-12-04
+CRE_218,ADV_020,Image Creative 218,Image,,1:1,66.93,False,2025-12-18
+CRE_219,ADV_020,Video Creative 219,Video,15.0,9:16,64.45,True,2025-09-28
+CRE_220,ADV_020,Image Creative 220,Image,,9:16,90.4,False,2025-08-19
+CRE_221,ADV_020,Video Creative 221,Video,6.0,1:1,65.96,True,2025-12-19
+CRE_222,ADV_020,Carousel Creative 222,Carousel,,16:9,57.0,False,2025-10-18
+CRE_223,ADV_020,Image Creative 223,Image,,1:1,80.06,False,2026-04-05
+CRE_224,ADV_020,Rich Media Creative 224,Rich Media,,4:5,79.94,False,2026-02-18
+CRE_225,ADV_021,Rich Media Creative 225,Rich Media,,1:1,72.39,False,2025-08-06
+CRE_226,ADV_021,Video Creative 226,Video,45.0,1:1,62.9,True,2025-10-21
+CRE_227,ADV_021,Video Creative 227,Video,15.0,16:9,58.7,True,2026-04-23
+CRE_228,ADV_021,Video Creative 228,Video,30.0,9:16,52.07,True,2025-12-02
+CRE_229,ADV_021,Video Creative 229,Video,30.0,16:9,75.43,True,2026-01-04
+CRE_230,ADV_021,Rich Media Creative 230,Rich Media,,4:5,59.2,False,2025-09-10
+CRE_231,ADV_021,Image Creative 231,Image,,16:9,92.08,False,2025-12-12
+CRE_232,ADV_021,Image Creative 232,Image,,9:16,88.09,False,2025-10-12
+CRE_233,ADV_022,Video Creative 233,Video,15.0,9:16,52.23,True,2025-10-04
+CRE_234,ADV_022,Image Creative 234,Image,,1:1,74.03,False,2026-04-23
+CRE_235,ADV_022,Video Creative 235,Video,10.0,9:16,79.17,True,2025-08-25
+CRE_236,ADV_022,Image Creative 236,Image,,1:1,87.6,False,2025-10-07
+CRE_237,ADV_022,Rich Media Creative 237,Rich Media,,9:16,80.42,False,2025-10-12
+CRE_238,ADV_022,Carousel Creative 238,Carousel,,9:16,72.8,False,2026-04-19
+CRE_239,ADV_022,Rich Media Creative 239,Rich Media,,16:9,61.63,False,2025-12-05
+CRE_240,ADV_022,Carousel Creative 240,Carousel,,16:9,70.31,False,2026-04-28
+CRE_241,ADV_023,Video Creative 241,Video,30.0,1:1,72.19,True,2025-09-12
+CRE_242,ADV_023,Video Creative 242,Video,10.0,4:5,70.96,True,2026-01-15
+CRE_243,ADV_023,Video Creative 243,Video,30.0,9:16,71.11,True,2025-10-08
+CRE_244,ADV_023,Image Creative 244,Image,,9:16,69.09,False,2026-02-19
+CRE_245,ADV_023,Video Creative 245,Video,30.0,9:16,91.38,True,2025-11-02
+CRE_246,ADV_023,Rich Media Creative 246,Rich Media,,9:16,83.97,False,2025-09-07
+CRE_247,ADV_023,Image Creative 247,Image,,4:5,50.07,False,2026-01-21
+CRE_248,ADV_023,Image Creative 248,Image,,9:16,71.34,False,2025-10-30
+CRE_249,ADV_023,Video Creative 249,Video,6.0,9:16,80.2,True,2025-11-15
+CRE_250,ADV_023,Video Creative 250,Video,10.0,4:5,69.49,True,2026-01-29
+CRE_251,ADV_023,Carousel Creative 251,Carousel,,16:9,83.99,False,2026-02-04
+CRE_252,ADV_024,Video Creative 252,Video,15.0,4:5,69.16,True,2025-11-15
+CRE_253,ADV_024,Rich Media Creative 253,Rich Media,,1:1,66.25,False,2026-02-21
+CRE_254,ADV_024,Image Creative 254,Image,,4:5,50.72,False,2025-12-13
+CRE_255,ADV_024,Image Creative 255,Image,,16:9,81.52,False,2025-12-07
+CRE_256,ADV_024,Video Creative 256,Video,15.0,9:16,71.8,True,2025-11-29
+CRE_257,ADV_024,Image Creative 257,Image,,1:1,68.65,False,2026-02-18
+CRE_258,ADV_024,Rich Media Creative 258,Rich Media,,9:16,68.64,False,2025-11-17
+CRE_259,ADV_024,Carousel Creative 259,Carousel,,1:1,88.31,False,2026-02-12
+CRE_260,ADV_024,Rich Media Creative 260,Rich Media,,16:9,69.13,False,2026-03-22
+CRE_261,ADV_024,Video Creative 261,Video,15.0,1:1,84.59,True,2026-03-25
+CRE_262,ADV_024,Image Creative 262,Image,,4:5,66.4,False,2025-09-24
+CRE_263,ADV_024,Rich Media Creative 263,Rich Media,,9:16,58.25,False,2025-11-05
+CRE_264,ADV_024,Image Creative 264,Image,,1:1,55.64,False,2025-12-15

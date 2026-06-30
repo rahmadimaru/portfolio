@@ -1,0 +1,5 @@
+device_id,device_type,platform,os_family,is_app
+DEV_IOS_APP,Mobile,App,iOS,True
+DEV_ANDROID_APP,Mobile,App,Android,True
+DEV_MOBILE_WEB,Mobile,Mobile Web,Web,False
+DEV_DESKTOP_WEB,Desktop,Desktop Web,Web,False

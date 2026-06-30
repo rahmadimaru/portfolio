@@ -1,0 +1,25 @@
+advertiser_id,advertiser_name,industry,advertiser_tier,country_origin,is_strategic_account,created_at
+ADV_001,Telco Advertiser 1,Telco,SMB,SG,False,2025-11-10
+ADV_002,Telco Advertiser 2,Telco,Growth,SG,False,2023-03-29
+ADV_003,Food Delivery Advertiser 3,Food Delivery,Growth,SG,False,2025-02-08
+ADV_004,Consumer Goods Advertiser 4,Consumer Goods,SMB,AE,False,2024-01-21
+ADV_005,Food Delivery Advertiser 5,Food Delivery,Growth,MY,False,2023-01-22
+ADV_006,Education Advertiser 6,Education,Enterprise,SG,True,2024-11-30
+ADV_007,Fintech Advertiser 7,Fintech,Growth,TH,False,2025-04-11
+ADV_008,Education Advertiser 8,Education,Enterprise,SG,False,2025-04-20
+ADV_009,Telco Advertiser 9,Telco,Enterprise,ID,False,2023-08-30
+ADV_010,Gaming Advertiser 10,Gaming,Enterprise,SA,True,2023-04-02
+ADV_011,Telco Advertiser 11,Telco,Growth,SG,False,2023-07-25
+ADV_012,Ecommerce Advertiser 12,Ecommerce,Enterprise,TH,True,2024-07-19
+ADV_013,Gaming Advertiser 13,Gaming,Growth,SA,False,2024-12-03
+ADV_014,Travel Advertiser 14,Travel,SMB,MY,False,2023-07-21
+ADV_015,Entertainment Advertiser 15,Entertainment,Growth,AE,False,2025-10-13
+ADV_016,Consumer Goods Advertiser 16,Consumer Goods,SMB,SA,False,2023-12-04
+ADV_017,Food Delivery Advertiser 17,Food Delivery,Growth,ID,False,2025-02-02
+ADV_018,Education Advertiser 18,Education,Enterprise,SA,True,2024-06-04
+ADV_019,Consumer Goods Advertiser 19,Consumer Goods,Growth,SG,False,2024-08-15
+ADV_020,Consumer Goods Advertiser 20,Consumer Goods,Growth,ID,False,2024-01-14
+ADV_021,Food Delivery Advertiser 21,Food Delivery,SMB,MY,False,2023-02-10
+ADV_022,Telco Advertiser 22,Telco,SMB,TH,False,2025-07-18
+ADV_023,Ecommerce Advertiser 23,Ecommerce,Enterprise,AE,True,2023-04-09
+ADV_024,Consumer Goods Advertiser 24,Consumer Goods,Enterprise,SG,True,2024-09-04
